@@ -21,7 +21,7 @@ int main() {
 	cout << "A soma é: " << soma << endl;
 	cout << "A subtração é: " << sub << endl;
 	cout << "A multiplicação é: " << multi << endl;
-	cout << "A div é: " << div << endl;
+	cout << "A div  é: " << div << endl;
 
 
 	return 0;
