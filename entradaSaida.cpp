@@ -18,6 +18,13 @@ int main() {
 		 << num2
 		 << endl;
 
+	int soma = 0;
+	soma >> num1 + num2;
+
+	cout << " A soma entre os valores digitados é "
+	     << soma 
+	     << endl;
+
 	return 0;
 }
 
