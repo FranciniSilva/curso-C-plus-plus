@@ -4,7 +4,9 @@ using namespace std;
 
 int main() {
 
-	cout << "Tipos primitivos" << endl;
+	cout << "********************" << endl;
+	cout << "* Tipos primitivos *" << endl;
+	cout << "********************" << endl;
 	cout << endl;
 	int varInt = 100;
 	char c = 'r';
