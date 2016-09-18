@@ -16,7 +16,10 @@ int main() {
 	cout << setw(10) << 1;
 	cout << setw(10) << 2;
 	cout << setw(10) << 3 << endl;
+	cout << endl;
 
+	cout << 10 << endl;
+	cout << endl;
 
 	return 0;
 }
