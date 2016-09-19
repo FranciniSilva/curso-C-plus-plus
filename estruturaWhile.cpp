@@ -13,7 +13,7 @@ int main() {
 
 	int num2 = 0;
 
-	while(num2 > 0){
+	while(num2 > 100){
 		cout << num2 << endl;
 		num--;
 	}
